@@ -1,0 +1,48 @@
+body{
+  background-color: #141414;
+  padding-left: 10px ;
+}
+.lista ul li{
+  list-style-type: none;
+  color: rgba(240, 248, 255, 0.404);
+  font-size: 0.8em;
+  padding: 5px;
+  padding-right: 80px;
+  padding-left: 0;
+}
+.lista ul{
+  padding-left: 0;
+}
+.colore{
+  color: rgba(240, 248, 255, 0.404);
+  border-color: rgba(240, 248, 255, 0.404);
+}
+.p{
+  font-size: 0.7em;
+  color: rgba(240, 248, 255, 0.404);
+}
+
+/* account setting */
+.barra{
+  background: rgb(19,19,19);
+  background: linear-gradient(0deg, rgba(19,19,19,1) 20%, rgba(19,19,19,1) 24%, rgba(20,20,20,1) 30%, rgba(19,19,19,1) 35%, rgba(0,0,0,1) 90%);
+}
+.er{
+  margin-left: 35%;
+  max-width: 520px;
+}
+.bottone{
+  border: none;
+  background-color: #333333;
+}
+.bordo{
+  font-size:small;
+  border: 1px solid #666666;
+  height: 35px;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
